@@ -1,16 +1,24 @@
-NicolasLuna12Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nicolas Luna
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nicolas Luna
 ====================================================================================================================================
 
 Tecnico Superior en Desarrollo WEB y APPS Mobiles
 -------------------------------------------------
 
-Hola, Soy Nicolas, me apasiona el desarrollo backend principalmente, aunque estoy abierto al frontend
+Hi, I'm Nicolas!
 
-* 🌍  I'm based in A
+I'm passionate about backend development — I enjoy building robust, scalable systems and working with APIs, databases, and server-side logic.
+
+While backend is my main focus, I'm also open to frontend work and always eager to expand my skills across the stack.
+
+* 🌍  I'm based in Argentina
 * ✉️  You can contact me at [nicolasluna.ca@gmail.com](mailto:nicolasluna.ca@gmail.com)
 * 🚀  I'm currently working on [Food ISPC](http://ispcfood.netlify.app)
-* 🧠  I'm learning I
-* 🤝  I'm open to collaborating on P
+* 🧠  I'm learning Artificial Intelligence and Cybersecurity
+* 🤝  I'm open to collaborating on Proyectos E-Commerce
+* ⚡  I also work with COBOL programming on IBM mainframe systems (z/OS).
+
+<a href="https://www.github.com/NicolasLuna12" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/NicolasLuna12?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -37,4 +45,3 @@ Hola, Soy Nicolas, me apasiona el desarrollo backend principalmente, aunque esto
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/NicolasLuna12/https://github.com/NicolasLuna12/backmobile1" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasLuna12&repo=https://github.com/NicolasLuna12/backmobile1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
