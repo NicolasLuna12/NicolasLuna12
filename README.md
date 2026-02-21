@@ -88,13 +88,6 @@ While backend is my main focus, I'm also open to frontend work and always eager 
   </a>
 </p>
 
----
-
-### 💾 Mainframe Skills
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cobol/cobol-original.svg" width="36" title="COBOL"/> I also work with COBOL programming on IBM z/OS mainframes.
-
----
 
 ### Socials
 
